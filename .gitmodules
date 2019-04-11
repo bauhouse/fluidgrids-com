@@ -1,3 +1,3 @@
 [submodule "workspace/fluidgrids"]
 	path = workspace/fluidgrids
-	url = git@github.com:bauhouse/fluidgrids.git
+	url = https://github.com/bauhouse/fluidgrids.git
